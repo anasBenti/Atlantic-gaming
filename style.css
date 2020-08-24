@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(to right, #c6ffdd, #fbd786, #ec888b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#rights{
+    font-size: 40px ;
+}
+#index1{
+    background: linear-gradient(to right, #00f260, #0575e6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#index2{
+    background: linear-gradient(to right, #3a1c71, #d76d77, #ffaf7b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#index3{
+    background: linear-gradient(to right, #000046, #1cb5e0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.H{
+    font-family: 'Bangers', cursive;
+}
+.a{
+    text-decoration: underline;
+    color: rgb(161, 48, 101);
+    font-family: 'Barlow', sans-serif;
+}
+#click{
+    opacity: 0.8;
+}
+#click:hover{
+    opacity: 1;
+}
+
+#index p{
+    font-family: 'Balsamiq Sans', cursive;
+}
+.img{
+    border-radius: 20px;
+}
