@@ -38,3 +38,11 @@ body{
 .img{
     border-radius: 20px;
 }
+#vid1{
+    width: 45% ;
+    height: 45% ;
+}
+#vidar{
+    text-align-last: center;
+    transform: translateY(50%);
+}
